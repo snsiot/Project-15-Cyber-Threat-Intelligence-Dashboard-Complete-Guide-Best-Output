@@ -1,0 +1,5 @@
+Flask==2.2.3
+pymongo==4.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+flask-bootstrap==3.3.7.1
